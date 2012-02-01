@@ -1,0 +1,1365 @@
+TGameConcept4
+v7
+r0
+t349196350.155614
+cCheck dependencies
+cProcessInfoPlistFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Info.plist Resources/Info.plist
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Default.png Resources/Default.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fps_images.png Resources/fps_images.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon.png Resources/Icon.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon@2x.png Resources/Icon@2x.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small.png Resources/Icon-Small.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphoneos/GameConcept4.app/iTunesArtwork Resources/iTunesArtwork
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/4.png Resources/4.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fire.png Resources/fire.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/red.png Resources/red.png
+cCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/bullet.png Resources/bullet.png
+cCopyPlistFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fx-explosion.plist Resources/fx-explosion.plist
+cProcessPCH /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch.gch GameConcept4_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/main.o /Users/Gayle/dev/ios/GameConcept4/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4AppDelegate.o /Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameScene.o /Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/RootViewController.o /Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4 normal armv6
+cGenerateDSYMFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app.dSYM /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4
+cTouch /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004ED4E3BD0000000000000110
+t1322574781
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC10DCA00000000000022F0
+t1287720394
+s8944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC10DCA0000000000002650
+t1287720394
+s9808
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/inttypes.h
+c000000004CB3E4B800000000000027D1
+t1286857912
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/objc.h
+c000000004CC1098E0000000000000A2F
+t1287719310
+s2607
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stddef.h
+c000000004CB3E4B80000000000001404
+t1286857912
+s5124
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/time.h
+c000000004CBFACD90000000000001E17
+t1287630041
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.h
+c000000004F1D50AA0000000000000194
+t1327321258
+s404
+i<UIKit/UIKit.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m
+c000000004F1D517C000000000000119C
+t1327321468
+s4508
+i"cocos2d.h"
+i"GameConcept4AppDelegate.h"
+i"GameConfig.h"
+i"GameScene.h"
+i"RootViewController.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/GameConfig.h
+c000000004F1D517D0000000000000458
+t1327321469
+s1112
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.h
+c000000004F20134800000000000002E5
+t1327502152
+s741
+i"cocos2d.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m
+c000000004F2018BC0000000000002F92
+t1327503548
+s12178
+i"GameScene.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.h
+c000000004F1D50AA00000000000000F5
+t1327321258
+s245
+i<UIKit/UIKit.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m
+c000000004F1D50AA0000000000001149
+t1327321258
+s4425
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/GameConcept4_Prefix.pch
+c000000004F1D50AA00000000000000BB
+t1327321258
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/4.png
+c000000004F12D36C000000000000152B
+t1326633836
+s5419
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Default.png
+c000000004F1D50AA00000000000077AB
+t1327321258
+s30635
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-72.png
+c000000004F1D50AA0000000000002C96
+t1327321258
+s11414
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small-50.png
+c000000004F1D50AA0000000000001F2B
+t1327321258
+s7979
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small.png
+c000000004F1D50AA000000000000135C
+t1327321258
+s4956
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small@2x.png
+c000000004F1D50AA00000000000024F9
+t1327321258
+s9465
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon.png
+c000000004F1D50AA000000000000246F
+t1327321258
+s9327
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/Icon@2x.png
+c000000004F1D50AA0000000000005375
+t1327321258
+s21365
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/bullet.png
+c000000004DFF0C2C0000000000000BB7
+t1308560428
+s2999
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/fire.png
+c000000004C5E51D800000000000002D2
+t1281249752
+s722
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/fps_images.png
+c000000004F1D50AA000000000000183B
+t1327321258
+s6203
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/fx-explosion.plist
+c000000004F18331A00000000000024CE
+t1326986010
+s9422
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/iTunesArtwork
+c000000004F1D50AA000000000000F21E
+t1327321258
+s61982
+
+N/Users/Gayle/dev/ios/GameConcept4/Resources/red.png
+c000000004F12CF6200000000000021AE
+t1326632802
+s8622
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app
+t1327503550
+s646
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app.dSYM
+t1327503550
+s102
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/4.png
+t1327394918
+s5326
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Default.png
+t1327394918
+s31932
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4
+t1327503549
+s1554396
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-72.png
+t1327394918
+s12252
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png
+t1327394918
+s8600
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small.png
+t1327394918
+s5241
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png
+t1327394917
+s10151
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon.png
+t1327394917
+s10022
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon@2x.png
+t1327394917
+s23297
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Info.plist
+t1327394916
+s1013
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/PkgInfo
+t1327394916
+s8
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/bullet.png
+t1327394918
+s2999
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fire.png
+t1327394918
+s740
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fps_images.png
+t1327394917
+s7188
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fx-explosion.plist
+t1327411298
+s8378
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/iTunesArtwork
+t1327394918
+s61982
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/red.png
+t1327394918
+s8877
+
+N/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/libcocos2d libraries.a
+c000000004F1E706400000000003AB630
+t1327394916
+s3847728
+
+N/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4.LinkFileList
+c000000004F1E7064000000000000020A
+t1327394916
+s522
+
+N/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4AppDelegate.o
+t1327502353
+s62436
+
+N/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameScene.o
+t1327503549
+s50472
+
+N/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/RootViewController.o
+t1327394920
+s39176
+
+N/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/main.o
+t1327394919
+s3364
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCAction.h
+c000000004F1D50AA0000000000001773
+t1327321258
+s6003
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionCamera.h
+c000000004F1D50AA00000000000009DD
+t1327321258
+s2525
+i"CCActionInterval.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionEase.h
+c000000004F1D50AA0000000000001671
+t1327321258
+s5745
+i"CCActionInterval.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionGrid.h
+c000000004F1D50AA0000000000001492
+t1327321258
+s5266
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionGrid3D.h
+c000000004F1D50AA0000000000001A8A
+t1327321258
+s6794
+i"CCActionGrid.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionInstant.h
+c000000004F1D50AA0000000000001487
+t1327321258
+s5255
+i"CCAction.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionInterval.h
+c000000004F1D50AA0000000000003683
+t1327321258
+s13955
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionManager.h
+c000000004F1D50AA0000000000000F48
+t1327321258
+s3912
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionPageTurn3D.h
+c000000004F1D50AA0000000000000644
+t1327321258
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionProgressTimer.h
+c000000004F1D50AA000000000000088D
+t1327321258
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionTiledGrid.h
+c000000004F1D50AA0000000000001A23
+t1327321258
+s6691
+i"CCActionGrid.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCActionTween.h
+c000000004F1D50AA0000000000000931
+t1327321258
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCAnimation.h
+c000000004F1D50AA0000000000000C70
+t1327321258
+s3184
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCAnimationCache.h
+c000000004F1D50AA00000000000008FE
+t1327321258
+s2302
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCAtlasNode.h
+c000000004F1D50AA0000000000000CEC
+t1327321258
+s3308
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCBlockSupport.h
+c000000004F1D50AA000000000000066F
+t1327321258
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCCamera.h
+c000000004F1D50AA0000000000000CA5
+t1327321258
+s3237
+i"CCNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCConfiguration.h
+c000000004F1D50AA0000000000000E06
+t1327321258
+s3590
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCDirector.h
+c000000004F1D50AA0000000000002676
+t1327321258
+s9846
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCDrawingPrimitives.h
+c000000004F1D50AA0000000000000C53
+t1327321258
+s3155
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCGrabber.h
+c000000004F1D50AA00000000000005E4
+t1327321258
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCGrid.h
+c000000004F1D50AA0000000000000E5A
+t1327321258
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCLabelAtlas.h
+c000000004F1D50AA00000000000009F1
+t1327321258
+s2545
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCLabelBMFont.h
+c000000004F1D50AA0000000000001534
+t1327321258
+s5428
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCLabelTTF.h
+c000000004F1D50AB0000000000000E56
+t1327321259
+s3670
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCLayer.h
+c000000004F1D50AB00000000000023BB
+t1327321259
+s9147
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCMenu.h
+c000000004F1D50AB0000000000000BA6
+t1327321259
+s2982
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCMenuItem.h
+c000000004F1D50AB00000000000036C4
+t1327321259
+s14020
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCMotionStreak.h
+c000000004F1D50AB0000000000000B2A
+t1327321259
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCNode.h
+c000000004F1D50AB0000000000004790
+t1327321259
+s18320
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCParallaxNode.h
+c000000004F1D50AB0000000000000784
+t1327321259
+s1924
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCParticleExamples.h
+c000000004F1D50AB0000000000000AF1
+t1327321259
+s2801
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCParticleSystem.h
+c000000004F1D50AB00000000000037E0
+t1327321259
+s14304
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCParticleSystemPoint.h
+c000000004F1D50AB0000000000000867
+t1327321259
+s2151
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCParticleSystemQuad.h
+c000000004F1D50AB0000000000000A1C
+t1327321259
+s2588
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCProgressTimer.h
+c000000004F1D50AB0000000000000B48
+t1327321259
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCProtocols.h
+c000000004F1D50AB0000000000000FBC
+t1327321259
+s4028
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCRenderTexture.h
+c000000004F1D50AB0000000000000F4B
+t1327321259
+s3915
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCRibbon.h
+c000000004F1D50AB0000000000000FD9
+t1327321259
+s4057
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCScene.h
+c000000004F1D50AB0000000000000697
+t1327321259
+s1687
+i"CCNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCScheduler.h
+c000000004F1D50AB000000000000186A
+t1327321259
+s6250
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCSprite.h
+c000000004F1D50AB0000000000002F37
+t1327321259
+s12087
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCSpriteBatchNode.h
+c000000004F1D50AB00000000000014AD
+t1327321259
+s5293
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCSpriteFrame.h
+c000000004F1D50AB0000000000000DF0
+t1327321259
+s3568
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCSpriteFrameCache.h
+c000000004F1D50AB0000000000001258
+t1327321259
+s4696
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTMXLayer.h
+c000000004F1D50AB000000000000186A
+t1327321259
+s6250
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTMXObjectGroup.h
+c000000004F1D50AB00000000000008F2
+t1327321259
+s2290
+i"CCNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTMXTiledMap.h
+c000000004F1D50AB000000000000143F
+t1327321259
+s5183
+i"CCNode.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTMXXMLParser.h
+c000000004F1D50AB00000000000016F8
+t1327321259
+s5880
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTexture2D.h
+c000000004F1D50AB0000000000003019
+t1327321259
+s12313
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTextureAtlas.h
+c000000004F1D50AB000000000000159A
+t1327321259
+s5530
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTextureCache.h
+c000000004F1D50AB00000000000015E0
+t1327321259
+s5600
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTexturePVR.h
+c000000004F1D50AB0000000000001127
+t1327321259
+s4391
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTexture2D.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTileMapAtlas.h
+c000000004F1D50AB0000000000000BA7
+t1327321259
+s2983
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTransition.h
+c000000004F1D50AB0000000000002155
+t1327321259
+s8533
+i"CCScene.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTransitionPageTurn.h
+c000000004F1D50AB0000000000000917
+t1327321259
+s2327
+i"CCTransition.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/CCTransitionRadial.h
+c000000004F1D50AB0000000000000630
+t1327321259
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/CCGL.h
+c000000004F1D50AB0000000000000C19
+t1327321259
+s3097
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/CCNS.h
+c000000004F1D50AB0000000000000C35
+t1327321259
+s3125
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004F1D50AB0000000000000D2F
+t1327321259
+s3375
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004F1D50AB000000000000208B
+t1327321259
+s8331
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004F1D50AB0000000000000BAD
+t1327321259
+s2989
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/Mac/MacWindow.h
+c000000004F1D50AB000000000000064B
+t1327321259
+s1611
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004F1D50AB0000000000001FDD
+t1327321259
+s8157
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004F1D50AB0000000000000BC3
+t1327321259
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004F1D50AB0000000000001111
+t1327321259
+s4369
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004F1D50AB0000000000000D99
+t1327321259
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004F1D50AB0000000000001B6A
+t1327321259
+s7018
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004F1D50AB000000000000085B
+t1327321259
+s2139
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Platforms/iOS/glu.h
+c000000004F1D50AB000000000000030D
+t1327321259
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/CCArray.h
+c000000004F1D50AB0000000000000D04
+t1327321259
+s3332
+i"ccCArray.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/CCFileUtils.h
+c000000004F1D50AB000000000000080F
+t1327321259
+s2063
+i<Foundation/Foundation.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/CCProfiling.h
+c000000004F1D50AB00000000000006E9
+t1327321259
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/CGPointExtension.h
+c000000004F1D50AB0000000000001FF8
+t1327321259
+s8184
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004F1D50AB00000000000011A7
+t1327321259
+s4519
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/TGAlib.h
+c000000004F1D50AB0000000000000444
+t1327321259
+s1092
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/ccCArray.h
+c000000004F1D50AB00000000000035A0
+t1327321259
+s13728
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/ccUtils.h
+c000000004F1D50AB0000000000000206
+t1327321259
+s518
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/uthash.h
+c000000004F1D50AB000000000000FEC9
+t1327321259
+s65225
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/Support/utlist.h
+c000000004F1D50AB0000000000009078
+t1327321259
+s36984
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/ccConfig.h
+c000000004F1D50AB0000000000002CCE
+t1327321259
+s11470
+i<Availability.h>
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/ccMacros.h
+c000000004F1D50AB0000000000002188
+t1327321259
+s8584
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/Mac/MacWindow.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/ccTypes.h
+c000000004F1D50AB00000000000018C9
+t1327321259
+s6345
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/libs/cocos2d/cocos2d.h
+c000000004F1D50AB00000000000010CD
+t1327321259
+s4301
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+
+N/Users/Gayle/dev/ios/GameConcept4/main.m
+c000000004F1D50AB0000000000000172
+t1327321259
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch.gch
+t1327394919
+s7726808
+
+NResources/Info.plist
+c000000004F1D50AA000000000000051C
+t1327321258
+s1308
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349196349#349196349#0(0"0(0#1#0"8625499744#0"0#
+
+CCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4AppDelegate.o /Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s349195150.061475
+e349195153.319675
+r1
+xCompileC
+xbuild/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4AppDelegate.o
+x/Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@75"Compile /Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m349195150#349195153#0(0"0(0#0#67"/Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m8618677120#1948"    cd /Users/Gayle/dev/ios/GameConcept4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-generated-files.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-own-target-headers.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-all-target-headers.hmap -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-project-headers.hmap -Wall -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -I/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/include -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources/armv6 -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch -c /Users/Gayle/dev/ios/GameConcept4/Classes/GameConcept4AppDelegate.m -o /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4AppDelegate.o0#
+
+CCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameScene.o /Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s349196349.147270
+e349196349.665607
+r1
+xCompileC
+xbuild/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameScene.o
+x/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene resetBullets]':
+o/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:110: warning: unused variable 'screenSize'
+o/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene bulletDidDrop:]':
+o/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:247: warning: unused variable 'screenSize'
+lSLF07#2@61"Compile /Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m349196349#349196349#0(388"/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene resetBullets]':/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:110: warning: unused variable 'screenSize'/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene bulletDidDrop:]':/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:247: warning: unused variable 'screenSize'2(22@28"Unused variable 'screenSize'349196349#96#97#0(6@53"/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m349196348#110#0#110#0#19"unused variable '*'0(22@28"Unused variable 'screenSize'349196349#291#97#0(6@53"/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m349196348#247#0#247#0#19"unused variable '*'0(0#0#53"/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m8603123040#1920"    cd /Users/Gayle/dev/ios/GameConcept4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-generated-files.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-own-target-headers.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-all-target-headers.hmap -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-project-headers.hmap -Wall -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -I/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/include -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources/armv6 -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch -c /Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m -o /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameScene.o0#
+
+CCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/RootViewController.o /Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s349087720.173981
+e349087720.365579
+r1
+xCompileC
+xbuild/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/RootViewController.o
+x/Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m349087720#349087720#0(0"0(0#0#62"/Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m8674651456#1938"    cd /Users/Gayle/dev/ios/GameConcept4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-generated-files.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-own-target-headers.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-all-target-headers.hmap -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-project-headers.hmap -Wall -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -I/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/include -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources/armv6 -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch -c /Users/Gayle/dev/ios/GameConcept4/Classes/RootViewController.m -o /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/main.o /Users/Gayle/dev/ios/GameConcept4/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s349087719.570492
+e349087719.699015
+r1
+xCompileC
+xbuild/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/main.o
+x/Users/Gayle/dev/ios/GameConcept4/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@48"Compile /Users/Gayle/dev/ios/GameConcept4/main.m349087719#349087719#0(0"0(0#0#40"/Users/Gayle/dev/ios/GameConcept4/main.m8616363712#1902"    cd /Users/Gayle/dev/ios/GameConcept4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-generated-files.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-own-target-headers.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-all-target-headers.hmap -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-project-headers.hmap -Wall -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -I/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/include -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources/armv6 -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch -c /Users/Gayle/dev/ios/GameConcept4/main.m -o /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/main.o0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/4.png Resources/4.png
+s349087718.158624
+e349087718.281932
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/4.png
+xResources/4.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/4.png Resources/4.png349087718#349087718#0(0"0(0#0#49"/Users/Gayle/dev/ios/GameConcept4/Resources/4.png8619198688#550"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/4.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/4.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Default.png Resources/Default.png
+s349087716.456076
+e349087718.268150
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Default.png
+xResources/Default.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Default.png Resources/Default.png349087716#349087718#0(0"0(0#0#55"/Users/Gayle/dev/ios/GameConcept4/Resources/Default.png8607399424#562"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Default.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Default.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-72.png Resources/Icon-72.png
+s349087718.093545
+e349087718.157354
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon-72.png Resources/Icon-72.png349087718#349087718#0(0"0(0#0#55"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-72.png8619652768#562"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon-72.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-72.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s349087718.048095
+e349087718.093423
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@95"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png Resources/Icon-Small-50.png349087718#349087718#0(0"0(0#0#61"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small-50.png8674404288#574"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small-50.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small-50.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small.png Resources/Icon-Small.png
+s349087718.005743
+e349087718.047972
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon-Small.png Resources/Icon-Small.png349087718#349087718#0(0"0(0#0#58"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small.png8676740896#568"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s349087717.937181
+e349087718.005623
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@95"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png Resources/Icon-Small@2x.png349087717#349087718#0(0"0(0#0#61"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small@2x.png8679169984#574"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon-Small@2x.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon.png Resources/Icon.png
+s349087717.758772
+e349087717.814793
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon.png
+xResources/Icon.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon.png Resources/Icon.png349087717#349087717#0(0"0(0#0#52"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon.png8769659328#556"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon@2x.png Resources/Icon@2x.png
+s349087717.814919
+e349087717.937060
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/Icon@2x.png Resources/Icon@2x.png349087717#349087717#0(0"0(0#0#55"/Users/Gayle/dev/ios/GameConcept4/Resources/Icon@2x.png8680024064#562"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/Icon@2x.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/bullet.png Resources/bullet.png
+s349087718.364556
+e349087718.414350
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/bullet.png
+xResources/bullet.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF07#2@81"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/bullet.png Resources/bullet.png349087718#349087718#0(143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.0(0#0#54"/Users/Gayle/dev/ios/GameConcept4/Resources/bullet.png8618064960#560"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/bullet.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/bullet.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fire.png Resources/fire.png
+s349087718.278534
+e349087718.364442
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fire.png
+xResources/fire.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/fire.png Resources/fire.png349087718#349087718#0(0"0(0#0#52"/Users/Gayle/dev/ios/GameConcept4/Resources/fire.png8618830304#556"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/fire.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fire.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fps_images.png Resources/fps_images.png
+s349087716.466611
+e349087717.758599
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/fps_images.png Resources/fps_images.png349087716#349087717#0(0"0(0#0#58"/Users/Gayle/dev/ios/GameConcept4/Resources/fps_images.png8602409920#568"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/fps_images.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fps_images.png0#
+
+CCopyPNGFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/red.png Resources/red.png
+s349087718.282034
+e349087718.376298
+r1
+xCopyPNGFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/red.png
+xResources/red.png
+lSLF07#2@75"CopyPNGFile build/Debug-iphoneos/GameConcept4.app/red.png Resources/red.png349087718#349087718#0(0"0(0#0#51"/Users/Gayle/dev/ios/GameConcept4/Resources/red.png8618696992#554"    cd /Users/Gayle/dev/ios/GameConcept4    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Gayle/dev/ios/GameConcept4/Resources/red.png /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/red.png0#
+
+CCopyPlistFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fx-explosion.plist Resources/fx-explosion.plist
+s349104097.179349
+e349104098.326941
+r1
+xCopyPlistFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/fx-explosion.plist
+xResources/fx-explosion.plist
+lSLF07#2@33"Copy Resources/fx-explosion.plist349104097#349104098#0(0"0(0#0#62"/Users/Gayle/dev/ios/GameConcept4/Resources/fx-explosion.plist8617569856#384"    cd /Users/Gayle/dev/ios/GameConcept4    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/fx-explosion.plist --outdir /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app0#
+
+CCpResource build/Debug-iphoneos/GameConcept4.app/iTunesArtwork Resources/iTunesArtwork
+s349087718.157468
+e349087718.278380
+r1
+xCpResource
+xbuild/Debug-iphoneos/GameConcept4.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork349087718#349087718#0(0"0(0#0#57"/Users/Gayle/dev/ios/GameConcept4/Resources/iTunesArtwork8619366944#457"    cd /Users/Gayle/dev/ios/GameConcept4    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Gayle/dev/ios/GameConcept4/Resources/iTunesArtwork /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app0#
+
+CGenerateDSYMFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app.dSYM /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4
+s349196349.922686
+e349196350.152275
+r1
+xGenerateDSYMFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app.dSYM
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/GameConcept4.app.dSYM build/Debug-iphoneos/GameConcept4.app/GameConcept4349196349#349196350#0(0"0(0#0#84"/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept48622802016#362"    cd /Users/Gayle/dev/ios/GameConcept4    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4 -o /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app.dSYM0#
+
+CLd /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4 normal armv6
+s349196349.665720
+e349196349.922565
+r1
+xLd
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4
+xnormal
+xarmv6
+lSLF07#2@89"Link /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept4349196349#349196349#0(0"0(0#0#0"8625503680#977"    cd /Users/Gayle/dev/ios/GameConcept4    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -filelist /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/Objects-normal/armv6/GameConcept4.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/GameConcept40#
+
+CProcessInfoPlistFile /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Info.plist Resources/Info.plist
+s349087716.352114
+e349087716.455950
+r1
+xProcessInfoPlistFile
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist349087716#349087716#0(0"0(0#0#54"/Users/Gayle/dev/ios/GameConcept4/Resources/Info.plist8618300640#448"    cd /Users/Gayle/dev/ios/GameConcept4    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app/Info.plist0#
+
+CProcessPCH /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch.gch GameConcept4_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s349087718.414618
+e349087719.570261
+r1
+xProcessPCH
+x/var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch.gch
+xGameConcept4_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@34"Precompile GameConcept4_Prefix.pch349087718#349087719#0(0"0(0#0#57"/Users/Gayle/dev/ios/GameConcept4/GameConcept4_Prefix.pch8611397536#1800"    cd /Users/Gayle/dev/ios/GameConcept4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-generated-files.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-own-target-headers.hmap -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-all-target-headers.hmap -iquote /Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/GameConcept4-project-headers.hmap -Wall -F/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos -I/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/include -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources/armv6 -I/Users/Gayle/dev/ios/GameConcept4/build/GameConcept4.build/Debug-iphoneos/GameConcept4.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/Gayle/dev/ios/GameConcept4/GameConcept4_Prefix.pch -o /var/folders/OM/OMPh1qgoGQ0TczKYuGaP1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GameConcept4_Prefix-apjduiqkhpdyxlexthqfardnrshq/GameConcept4_Prefix.pch.gch0#
+
+CTouch /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app
+s349196350.152388
+e349196350.155562
+r1
+xTouch
+x/Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app
+lSLF07#2@77"Touch /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app349196350#349196350#0(0"0(0#0#0"8622844512#259"    cd /Users/Gayle/dev/ios/GameConcept4    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Gayle/dev/ios/GameConcept4/build/Debug-iphoneos/GameConcept4.app0#
+

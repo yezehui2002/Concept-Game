@@ -1,0 +1,465 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* GameConcept4 */ = {
+		activeExec = 0;
+		executables = (
+			A38813FB14CD882B00DE2738 /* GameConcept4 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A38813FB14CD882B00DE2738 /* GameConcept4 */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GameConcept4 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GameConcept4 */,
+		);
+		breakpoints = (
+			A38085EC14D04A170029485F /* GameScene.m:392 */,
+		);
+		codeSenseManager = A388141014CD884D00DE2738 /* Code sense */;
+		executables = (
+			A38813FB14CD882B00DE2738 /* GameConcept4 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349498524;
+			PBXWorkspaceStateSaveDate = 349498524;
+		};
+		perUserProjectItems = {
+			A3807C9A14D4E487005FC1B0 /* PBXTextBookmark */ = A3807C9A14D4E487005FC1B0 /* PBXTextBookmark */;
+			A38085EE14D04A330029485F /* PBXTextBookmark */ = A38085EE14D04A330029485F /* PBXTextBookmark */;
+			A38085F014D04A330029485F /* PBXTextBookmark */ = A38085F014D04A330029485F /* PBXTextBookmark */;
+			A38085F214D04A330029485F /* PBXTextBookmark */ = A38085F214D04A330029485F /* PBXTextBookmark */;
+			A38085F514D04A330029485F /* PBXTextBookmark */ = A38085F514D04A330029485F /* PBXTextBookmark */;
+			A380860114D04AC90029485F /* PBXTextBookmark */ = A380860114D04AC90029485F /* PBXTextBookmark */;
+			A380860D14D04B280029485F /* PBXTextBookmark */ = A380860D14D04B280029485F /* PBXTextBookmark */;
+			A381DE3514CEAD2B00E75587 /* PBXTextBookmark */ = A381DE3514CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE3714CEAD2B00E75587 /* PBXTextBookmark */ = A381DE3714CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE3914CEAD2B00E75587 /* PBXTextBookmark */ = A381DE3914CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE3B14CEAD2B00E75587 /* PBXTextBookmark */ = A381DE3B14CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE3D14CEAD2B00E75587 /* PBXBookmark */ = A381DE3D14CEAD2B00E75587 /* PBXBookmark */;
+			A381DE3E14CEAD2B00E75587 /* PBXTextBookmark */ = A381DE3E14CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE4014CEAD2B00E75587 /* PBXTextBookmark */ = A381DE4014CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE4314CEAD2B00E75587 /* PBXTextBookmark */ = A381DE4314CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE4514CEAD2B00E75587 /* PBXTextBookmark */ = A381DE4514CEAD2B00E75587 /* PBXTextBookmark */;
+			A381DE4714CEAD2B00E75587 /* PBXTextBookmark */ = A381DE4714CEAD2B00E75587 /* PBXTextBookmark */;
+			A38A0F7C14D4EE02003890B7 /* PBXTextBookmark */ = A38A0F7C14D4EE02003890B7 /* PBXTextBookmark */;
+			A38A0F7D14D4EE02003890B7 /* PBXTextBookmark */ = A38A0F7D14D4EE02003890B7 /* PBXTextBookmark */;
+			A3BB6A3814CEB8BD00A09F1C /* PBXTextBookmark */ = A3BB6A3814CEB8BD00A09F1C /* PBXTextBookmark */;
+		};
+		sourceControlManager = A388140F14CD884D00DE2738 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {769, 546}}";
+			sepNavSelRange = "{318, 23}";
+			sepNavVisRange = "{3, 767}";
+			sepNavWindowFrame = "{{15, 149}, {1037, 624}}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* GameScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 5369}}";
+			sepNavSelRange = "{10990, 0}";
+			sepNavVisRange = "{485, 1350}";
+			sepNavWindowFrame = "{{15, 149}, {1037, 624}}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	A3807C9A14D4E487005FC1B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* GameScene.h */;
+		name = "GameScene.h: 16";
+		rLen = 23;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 3;
+	};
+	A38085EC14D04A170029485F /* GameScene.m:392 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 506EDC30102F528A00A389B3 /* GameScene.m */;
+		functionName = "-checkCollision";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 392;
+		location = GameConcept4;
+		modificationTime = 349422846.9258;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A38085EE14D04A330029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A38085EF14D04A330029485F /* GameScene.m */;
+		name = "GameScene.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 1233;
+	};
+	A38085EF14D04A330029485F /* GameScene.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameScene.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH08_code/ShootEmUp03/Classes/GameScene.m;
+		sourceTree = "<absolute>";
+	};
+	A38085F014D04A330029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A38085F114D04A330029485F /* BulletCache.m */;
+		name = "BulletCache.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 1080;
+	};
+	A38085F114D04A330029485F /* BulletCache.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BulletCache.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH08_code/ShootEmUp03/Classes/BulletCache.m;
+		sourceTree = "<absolute>";
+	};
+	A38085F214D04A330029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0F80F5F120A0182005866B8 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1630;
+		vrLoc = 1662;
+	};
+	A38085F514D04A330029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4E14CEAD2B00E75587 /* GameScene.m */;
+		name = "GameScene.m: 338";
+		rLen = 0;
+		rLoc = 14048;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 14436;
+	};
+	A380860114D04AC90029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A380860214D04AC90029485F /* GameConcept3AppDelegate.h */;
+		name = "GameConcept3AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	A380860214D04AC90029485F /* GameConcept3AppDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GameConcept3AppDelegate.h;
+		path = /Users/Gayle/dev/ios/GameConcept3/Classes/GameConcept3AppDelegate.h;
+		sourceTree = "<absolute>";
+	};
+	A380860D14D04B280029485F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4C14CEAD2B00E75587 /* GameConcept3.m */;
+		name = "GameConcept3.m: 240";
+		rLen = 110;
+		rLoc = 8229;
+		rType = 0;
+		vrLen = 1978;
+		vrLoc = 7036;
+	};
+	A381DE3514CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE3614CEAD2B00E75587 /* GameScene.m */;
+		name = "GameScene.m: 200";
+		rLen = 1565;
+		rLoc = 7781;
+		rType = 0;
+		vrLen = 2421;
+		vrLoc = 7539;
+	};
+	A381DE3614CEAD2B00E75587 /* GameScene.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameScene.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop08_Final/Classes/GameScene.m;
+		sourceTree = "<absolute>";
+	};
+	A381DE3714CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE3814CEAD2B00E75587 /* GameScene.h */;
+		name = "GameScene.h: 18";
+		rLen = 47;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	A381DE3814CEAD2B00E75587 /* GameScene.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GameScene.h;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop08_Final/Classes/GameScene.h;
+		sourceTree = "<absolute>";
+	};
+	A381DE3914CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE3A14CEAD2B00E75587 /* GameScene.m */;
+		name = "GameScene.m: 184";
+		rLen = 396;
+		rLoc = 6971;
+		rType = 0;
+		vrLen = 2189;
+		vrLoc = 5851;
+	};
+	A381DE3A14CEAD2B00E75587 /* GameScene.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameScene.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop04/Classes/GameScene.m;
+		sourceTree = "<absolute>";
+	};
+	A381DE3B14CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE3C14CEAD2B00E75587 /* GameScene.h */;
+		name = "GameScene.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	A381DE3C14CEAD2B00E75587 /* GameScene.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GameScene.h;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop07/Classes/GameScene.h;
+		sourceTree = "<absolute>";
+	};
+	A381DE3D14CEAD2B00E75587 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A381DDAD14CD8D8B00E75587 /* 4.png */;
+	};
+	A381DE3E14CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE3F14CEAD2B00E75587 /* GameScene.h */;
+		name = "GameScene.h: 11";
+		rLen = 43;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	A381DE3F14CEAD2B00E75587 /* GameScene.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GameScene.h;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop06/Classes/GameScene.h;
+		sourceTree = "<absolute>";
+	};
+	A381DE4014CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4114CEAD2B00E75587 /* GameScene.m */;
+		name = "GameScene.m: 252";
+		rLen = 2577;
+		rLoc = 10240;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 11274;
+	};
+	A381DE4114CEAD2B00E75587 /* GameScene.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameScene.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop06/Classes/GameScene.m;
+		sourceTree = "<absolute>";
+	};
+	A381DE4314CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4414CEAD2B00E75587 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	A381DE4414CEAD2B00E75587 /* RootViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = RootViewController.h;
+		path = /Users/Gayle/dev/ios/GameConcept2/Classes/RootViewController.h;
+		sourceTree = "<absolute>";
+	};
+	A381DE4514CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4614CEAD2B00E75587 /* HelloWorldLayer.mm */;
+		name = "HelloWorldLayer.mm: 119";
+		rLen = 99;
+		rLoc = 2738;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 2702;
+	};
+	A381DE4614CEAD2B00E75587 /* HelloWorldLayer.mm */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = HelloWorldLayer.mm;
+		path = /Users/Gayle/dev/ios/GameConcept2/Classes/HelloWorldLayer.mm;
+		sourceTree = "<absolute>";
+	};
+	A381DE4714CEAD2B00E75587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A381DE4814CEAD2B00E75587 /* HelloWorldLayer.h */;
+		name = "HelloWorldLayer.h: 24";
+		rLen = 18;
+		rLoc = 486;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	A381DE4814CEAD2B00E75587 /* HelloWorldLayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = HelloWorldLayer.h;
+		path = /Users/Gayle/dev/ios/GameConcept2/Classes/HelloWorldLayer.h;
+		sourceTree = "<absolute>";
+	};
+	A381DE4C14CEAD2B00E75587 /* GameConcept3.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameConcept3.m;
+		path = /Users/Gayle/dev/ios/GameConcept3/Classes/GameConcept3.m;
+		sourceTree = "<absolute>";
+	};
+	A381DE4E14CEAD2B00E75587 /* GameScene.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameScene.m;
+		path = /Users/Gayle/dev/ios/cocos2d_samples/CH04_code/DoodleDrop07/Classes/GameScene.m;
+		sourceTree = "<absolute>";
+	};
+	A38813FB14CD882B00DE2738 /* GameConcept4 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GameConcept4;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A388140F14CD884D00DE2738 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A388141014CD884D00DE2738 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A38A0F7C14D4EE02003890B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* GameScene.m */;
+		name = "GameScene.m: 309";
+		rLen = 0;
+		rLoc = 8883;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 10961;
+	};
+	A38A0F7D14D4EE02003890B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* GameScene.m */;
+		name = "GameScene.m: 354";
+		rLen = 0;
+		rLoc = 10990;
+		rType = 0;
+		vrLen = 1350;
+		vrLoc = 485;
+	};
+	A3BB6A3814CEB8BD00A09F1C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E0F80F5E120A0182005866B8 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	E0F80F5E120A0182005866B8 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	E0F80F5F120A0182005866B8 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1989}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1662, 1630}";
+		};
+	};
+}

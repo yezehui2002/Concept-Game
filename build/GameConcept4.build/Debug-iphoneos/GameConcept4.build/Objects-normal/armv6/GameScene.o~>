@@ -1,0 +1,4 @@
+/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene resetBullets]':
+/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:110: warning: unused variable 'screenSize'
+/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m: In function '-[GameScene bulletDidDrop:]':
+/Users/Gayle/dev/ios/GameConcept4/Classes/GameScene.m:247: warning: unused variable 'screenSize'
